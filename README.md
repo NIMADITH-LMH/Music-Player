@@ -1,4 +1,4 @@
-# Music Player
+8# Music Player
 
 
 
@@ -136,7 +136,7 @@ If you have any questions or feedback, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Havindu Nimadith
 
 1. Go to the "Search" tab
 2. Enter your search query
