@@ -68,6 +68,3 @@ Configure various aspects of the app in the Settings tab:
 - Howler.js - Audio library
 - YouTube API - For searching and downloading music
 
-## License
-
-This project is licensed under the ISC License. 
