@@ -1,6 +1,6 @@
 # Music Player
 
-![Music Player Banner](https://via.placeholder.com/1200x300?text=Music+Player)
+
 
 A beautiful, feature-rich desktop music player application built with Electron and React. Organize and enjoy your local music collection with a modern, responsive interface.
 
